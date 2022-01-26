@@ -1,0 +1,28 @@
+Advanced Navigation Packet Protocol Orientus SDK Version 1.1
+Java Language SDK
+
+******************
+**** EXAMPLES ****
+******************
+
+ANPPExample is an example Java GUI that connects to the serial port and displays data in real time. There is a prebuilt jar in the dist directory that you can run without having to compile anything. This is an eclipse project.
+
+*******************
+**** COMPILING ****
+*******************
+
+All Platforms:
+	1. Install Eclipse http://www.eclipse.org/
+	2. Install WindowBuilder http://www.eclipse.org/windowbuilder/
+	3. In Eclipse, File->Import, Existing Projects into Workspace
+	4. Run button, choose Main class in com.advancednavigation.anppExample
+	5. To use WindowBuilder, right click, Open With->WindowBuilder Editor, then click on the design tab
+	
+*******************
+**** CHANGELOG ****
+*******************
+
+v1.1:
+	No changes
+v1.0:
+	First Release
